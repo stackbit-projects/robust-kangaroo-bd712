@@ -67,8 +67,8 @@ sections:
       url: >-
         https://cdn.sanity.io/files/599r6htc/production/4caa8274fa1a76f5df188b7969c41e2b00890801.mp4
       autoplay: true
-      loop: false
-      muted: false
+      loop: true
+      muted: true
       controls: false
       elementId: ''
       type: VideoBlock
