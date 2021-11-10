@@ -27,7 +27,7 @@ sections:
         style: link
         elementId: hero-main-button
         showIcon: false
-        iconPosition: left
+        iconPosition: right
       - type: Button
         label: Learn More
         url: /
