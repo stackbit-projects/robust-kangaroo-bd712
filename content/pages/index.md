@@ -63,6 +63,14 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
+    feature:
+      url: lorem-ipsum
+      autoplay: false
+      loop: false
+      muted: false
+      controls: false
+      elementId: ''
+      type: VideoBlock
   - elementId: ''
     variant: variant-a
     colors: colors-a
