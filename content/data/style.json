@@ -28,8 +28,8 @@
     "complementary": "#e9f6ff",
     "complementaryAlt": "#fffde2",
     "buttonPrimary": {
-        "radius": 0,
-        "case": "capitalize"
+        "radius": "0.125rem",
+        "case": "none"
     },
     "buttonSecondary": {
         "radius": 0,
