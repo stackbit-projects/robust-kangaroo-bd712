@@ -82,7 +82,7 @@ sections:
       - type: Button
         label: View all
         url: /
-        style: link
+        style: secondary
     posts:
       - content/pages/blog/post-three.md
       - content/pages/blog/post-two.md
