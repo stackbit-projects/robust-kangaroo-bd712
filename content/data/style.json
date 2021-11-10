@@ -3,7 +3,7 @@
     "h1": {
         "weight": "normal",
         "decoration": "underline",
-        "case": "none",
+        "case": "capitalize",
         "letterSpacing": "normal"
     },
     "h2": {
