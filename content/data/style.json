@@ -4,7 +4,7 @@
         "weight": "normal",
         "decoration": "underline",
         "case": "capitalize",
-        "letterSpacing": "normal"
+        "letterSpacing": "0.05em"
     },
     "h2": {
         "weight": "bold",
