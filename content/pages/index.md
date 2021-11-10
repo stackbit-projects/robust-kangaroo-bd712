@@ -26,6 +26,7 @@ sections:
         url: /
         style: primary
         elementId: hero-main-button
+        showIcon: true
       - type: Button
         label: Learn More
         url: /
@@ -100,7 +101,9 @@ sections:
         fontWeight: 400
         fontStyle: normal
         textAlign: center
-        margin: ["mt-0", "mb-12"]
+        margin:
+          - mt-0
+          - mb-12
       actions:
         justifyContent: center
     type: FeaturedPostsSection
