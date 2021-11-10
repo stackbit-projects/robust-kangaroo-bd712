@@ -70,7 +70,7 @@ sections:
   - elementId: ''
     variant: variant-a
     colors: colors-a
-    backgroundWidth: full
+    backgroundWidth: inset
     title: Services & Experiences
     subtitle: 'Like we said, it''s more than just fishing'
     actions:
