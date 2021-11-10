@@ -24,9 +24,9 @@ sections:
       - type: Button
         label: Get Started
         url: /
-        style: primary
+        style: link
         elementId: hero-main-button
-        showIcon: true
+        showIcon: false
       - type: Button
         label: Learn More
         url: /
