@@ -64,7 +64,8 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     feature:
-      url: lorem-ipsum
+      url: >-
+        lorem-ipsumhttps://cdn.sanity.io/files/599r6htc/production/4caa8274fa1a76f5df188b7969c41e2b00890801.mp4
       autoplay: false
       loop: false
       muted: false
