@@ -1,8 +1,8 @@
 {
     "type": "ThemeStyle",
     "h1": {
-        "weight": "normal",
-        "decoration": "none",
+        "weight": "bold",
+        "decoration": "line-through",
         "case": "none",
         "letterSpacing": "-0.05em"
     },
